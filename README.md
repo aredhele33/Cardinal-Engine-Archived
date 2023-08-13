@@ -2,7 +2,7 @@
 #### This is an archived project. It only contains a runnable binary since I don't have time to maintain the code of this project.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00088_Cardinal_Engine.jpg" />
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00088_Cardinal_Engine.jpg" />
 </p>
 
 ## Abstract
@@ -47,7 +47,7 @@ This project was intended to be used on Windows, but has a theorical compatibili
 **Scene example preview**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/Cardinal_Capture_ParticleSnow.gif"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/Cardinal_Capture_ParticleSnow.gif"/>
 </p>
 
 <div id="Features"></div>
@@ -204,7 +204,7 @@ cardinal::Logger::LogError  ("Foo %d", foo); // Write in stderr with [Erro] tag
 Output example
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/Cardinal_FirstBoot.png"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/Cardinal_FirstBoot.png"/>
 </p>
 
 <div id="Rendering"></div>
@@ -297,11 +297,11 @@ void MyPlugin::OnPlayStart()
 Output (Gizmos enabled)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00083_Cardinal_Engine.png"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00083_Cardinal_Engine.png"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00081_Cardinal_Engine.jpg"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00081_Cardinal_Engine.jpg"/>
 </p>
 
 <div id="Virtual Reality"></div>
@@ -338,8 +338,8 @@ before the SteamVR composer passes.
 
 **In Game output VS what it can looks like in real life**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/Cardinal_OpenVR_InGame.gif"/>
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/Cardinal_OpenVR_IRL.gif"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/Cardinal_OpenVR_InGame.gif"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/Cardinal_OpenVR_IRL.gif"/>
 </p>
 
 <div id="Particle system"></div>
@@ -368,8 +368,8 @@ pSystem->SetPosition(glm::vec3(0.0f, 0.0f, 300.0f));
 
 Possible output 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00078_Cardinal_Engine.jpg"/>
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00073_Cardinal_Engine.png"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00078_Cardinal_Engine.jpg"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00073_Cardinal_Engine.png"/>
 </p>
 
 <div id="Gizmos"></div>
@@ -416,7 +416,7 @@ void MyPlugin::OnPostUpdate(float dt)
 Note : You can also enable or disable gizmos directly from the game with the gizmos window.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00075_Cardinal_Engine.jpg"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00075_Cardinal_Engine.jpg"/>
 </p>
 
 <div id="Gallery"></div>
@@ -425,38 +425,38 @@ Note : You can also enable or disable gizmos directly from the game with the giz
 
 ### The Rising Sun, an exotic combination of shaders
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00050_Cardinal_Engine.png"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00050_Cardinal_Engine.png"/>
 </p>
 
 ### Orthographic view of a small world
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00058_Cardinal_Engine.png"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00058_Cardinal_Engine.png"/>
 </p>
 
 ### Playing arround with particule systems
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00065_Cardinal_Engine.png"/>
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00066_Cardinal_Engine.png"/>
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00067_Cardinal_Engine.png"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00065_Cardinal_Engine.png"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00066_Cardinal_Engine.png"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00067_Cardinal_Engine.png"/>
 </p>
 
 ### Wireframe overlay and depth buffer
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00079_Cardinal_Engine.jpg"/>
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00085_Cardinal_Engine.jpg"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00079_Cardinal_Engine.jpg"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00085_Cardinal_Engine.jpg"/>
 </p>
 
 ### A blurry overview
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00086_Cardinal_Engine.jpg"/>
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00090_Cardinal_Engine.jpg"/>
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/Cardinal_Bloom.png"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00086_Cardinal_Engine.jpg"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00090_Cardinal_Engine.jpg"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/Cardinal_Bloom.png"/>
 </p>
 
 ### Attempt of a multithreaded endless chunk generation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/00009_Cardinal_Engine.png"/>
-  <img src="https://raw.githubusercontent.com/Aredhele/Cardinal-Engine-Archived/main/Press/Cardinal_Capture_InfinitePCG.gif"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/00009_Cardinal_Engine.png"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Cardinal-Engine-Archived/main/Press/Cardinal_Capture_InfinitePCG.gif"/>
 </p>
 
 Thanks for reading!
